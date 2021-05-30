@@ -40,7 +40,9 @@ export default {
     const loader = new Loader({
       apiKey: process.env.GRIDSOME_GOOGLE_API_KEY,
       version: "weekly",
-      libraries: ["places"]
+      libraries: ["geometry"],
+      region: 'JP',
+      language: 'en'
     });
     loader.load()
     .then(() => {
