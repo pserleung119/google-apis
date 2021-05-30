@@ -1,8 +1,16 @@
 module.exports = {
-  siteName: 'Gridsome starter bootstrap',
-  siteDescription: 'A starter project for Gridsome with Bootstrap and some other useful tools.',
+  siteName: 'Google APIs Tester',
+  siteDescription: 'A starter project for Gridsome with Bootstrap and Google APIs',
   siteUrl: 'https://gridsome-starter-bootstrap.loke.dev',
   plugins: [
+    {
+      use: 'gridsome-source-google-sheets',
+      options: {
+        sheetId: process.env.GOOGLE_SHEET_ID,
+        apiKey: process.env.GRIDSOME_GOOGLE_API_KEY,
+        type: 'googleSheet'
+      }
+    },
     {
       use: '@gridsome/plugin-google-analytics',
       options: {

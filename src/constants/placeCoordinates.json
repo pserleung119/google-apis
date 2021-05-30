@@ -1,0 +1,14 @@
+{
+  "narita": { "lat": 35.773861394076384, "lng": 140.39358977209062 },
+  "tokyo": { "lat": 35.696607113246735, "lng": 139.76489255140862 },
+  "yokohama": { "lat": 35.446490998238865, "lng": 139.64380512047273 },
+  "chiba": { "lat": 35.36185332754598, "lng": 140.1462598614803 },
+  "sensoji": { "lat": 35.71493494640055, "lng": 139.7966445688973 },
+  "skytree": { "lat": 35.71017157525279, "lng": 139.81070039773294 },
+  "tokyotower": {
+    "lat": 35.65876790052122,
+    "lng": 139.74549727074535,
+    "info": "The Tokyo Tower (東京タワー, Tōkyō tawā, officially called 日本電波塔 Nippon denpatō 'Japan Radio Tower') is a communications and observation tower in the Shiba-koen district of Minato, Tokyo, Japan. At 332.9 meters (1,092 ft), it is the second-tallest structure in Japan. The structure is an Eiffel Tower-inspired lattice tower that is painted white and international orange to comply with air safety regulations. Built in 1958, the tower's main sources of income are tourism and antenna leasing. Over 150 million people have visited the tower. FootTown, a four-story building directly under the tower, houses museums, restaurants, and shops. Departing from there, guests can visit two observation decks. The two-story Main Deck (formerly known as the Main Observatory) is at 150 meters (490 ft), while the smaller Top Deck (formerly known as the 'Special Observatory') reaches a height of 249.6 meters (819 ft). The names were changed following renovation of the top deck in 2018.[4] The tower is repainted every five years, taking a year to complete the process. Added in 1961 the tower has transmission antennae used for radio and television broadcasting and now broadcasts signals for Japanese media outlets such as NHK, TBS, and Fuji TV. The height of the tower was not suitable for Japan's planned terrestrial digital broadcasting planned for July 2011 for the Tokyo area. A taller digital broadcasting tower, known as Tokyo Skytree, was completed on 29 February 2012. Since its completion in 1958, Tokyo Tower has become a prominent landmark in the city, and frequently appears in media set in Tokyo."
+  },
+  "shibuyasky": { "lat": 35.658838897011336, "lng": 139.702521562801 }
+}
